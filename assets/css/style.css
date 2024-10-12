@@ -1,0 +1,24 @@
+.artur-img {
+  border-radius: 100%;
+}
+
+.emige {
+  background-image: url(../img/book45656.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.rokena {
+  width: 50px;
+  margin: 10px;
+}
+
+.nav-pills .nav-link.active {
+  background-color: yellow !important; /* Mengubah warna latar belakang Home */
+  color: rgb(112, 112, 0) !important; /* Mengubah warna teks menjadi putih */
+}
+
+.nav-link {
+  color: rgb(112, 112, 0) !important;
+}
